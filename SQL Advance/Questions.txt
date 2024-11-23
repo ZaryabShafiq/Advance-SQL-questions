@@ -1,0 +1,74 @@
+﻿Advanced  Questions
+
+These questions are designed to challenge your  skills and help you build proficiency in complex queries, aggregations, and data analysis.
+Please note that question numbers are given after the question
+
+Top Customers in Different Regions
+Retrieve the top 3 customers (by sales amount) in each territory. Show the customer name, territory, and total sales amount.
+-- Question 1
+
+
+Quarterly Sales Comparison
+Compare the sales of the same product line between two consecutive quarters. For example, compare Q1 and Q2 sales for each product line and calculate the percentage change.
+-- Question 2
+
+High-Value Orders by Product Line
+List the top 5 highest-value orders for each product line. Show the order number, customer name, product line, and total order amount.
+-- Question 3
+
+
+Monthly Sales Distribution by Deal Size
+Show the monthly distribution of sales amounts by deal size for the year 2003. Group the results by month and deal size, and display the total sales amount.
+-- Question 4
+
+Average Order Value by Customer Region
+Calculate the average order value for customers in different regions (NA, EMEA, APAC). Show the region, customer name, and average order value.
+-- Question 5
+
+
+Product Sales Trend Analysis
+For each product line, identify the product with the highest sales growth rate from one quarter to the next within the same year. Display the product line, product code, and growth rate.
+-- Question 6
+
+
+Yearly Sales Growth by Product Line
+Calculate the yearly sales growth rate for each product line between 2003 and 2004. Show the product line and the growth rate.
+-- Question 7
+
+
+High-Value Customers Over Time
+Identify customers who have placed orders totaling more than $10,000 over any six-month period. Display the customer name, total sales amount, and the six-month period.
+-- Question 8
+
+
+Order Frequency Analysis
+Determine the frequency of orders placed by each customer and identify customers who place orders more frequently than the average frequency. Show the customer name and the number of orders.
+-- Question 9
+
+
+Product Line Sales Performance by Territory
+Compare the sales performance of different product lines within each territory. For each territory, display the product line, total sales amount, and the percentage contribution to the total sales of the territory.
+-- Question 10
+
+
+Customer Order Patterns
+Analyze the ordering patterns of customers and identify customers who have consistently placed high-value orders (e.g., orders greater than $500) across multiple quarters. Show the customer name, number of high-value orders, and quarters involved.
+-- Question 11
+
+
+Sales Representative Performance
+Evaluate the performance of sales representatives by calculating the total sales amount handled by each representative. Show the representative’s name, total sales amount, and the number of orders processed.
+-- Question 12
+
+
+Product Line Profitability
+Determine the profitability of each product line by calculating the total profit generated (sales amount minus cost). Show the product line and the total profit.
+-- Question 13
+
+Order Date Analysis
+Identify the top 3 months with the highest number of orders placed and calculate the total sales amount for those months. Show the month, number of orders, and total sales amount.
+-- Question 14
+
+Customer Retention Analysis
+Analyze customer retention by identifying customers who have placed orders in multiple years. Show the customer name, number of years they placed orders, and the total sales amount.
+-- Question 15
